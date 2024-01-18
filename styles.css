@@ -1,3 +1,12 @@
-/* Your Styles Here */
-body{
-}
+.profile {
+  width: 210px;
+  height: 600px;
+  margin: auto;
+  background-color: lavender;
+}        
+
+div {margin: auto;
+border:1px;
+padding : 20px}
+
+body {border-color:black;}
